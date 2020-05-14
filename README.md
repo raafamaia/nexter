@@ -11,9 +11,9 @@
 
 > Study project for CSS Grid.
 
-### 🏠 [Homepage](nexter-project.surge.sh)
+### 🏠 [Homepage](https://nexter-project.surge.sh)
 
-### ✨ [Demo](nexter-project-develop.surge.sh/)
+### ✨ [Demo](https://nexter-project-develop.surge.sh)
 
 ## Install
 

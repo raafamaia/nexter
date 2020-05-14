@@ -1,7 +1,7 @@
 {
-  "name": "lawn",
+  "name": "nexter",
   "version": "1.0.0",
-  "description": "Lawn webpage",
+  "description": "Nexter webpage",
   "main": "index.js",
   "scripts": {
     "watch:sass": "node-sass sass/main.scss css/style.css -w",
